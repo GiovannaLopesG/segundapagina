@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(255, 111, 0);
+}
+
+header {
+    background: #ffffff;
+}
+
+.caixinha{
+    width: 100%;
+    height: 30%;
+    background-color: white;
+}
+
+.logo img{
+    left:100%;
+    height: 10%;
+    width: 10%;
+}
+
+.caixona {
+
+    background-color: orange;
+}
+
+p {
+    align-items: center;
+    margin-left: 35%;
+    margin-top: 10%;
+    font-size: 25px;
+    color: white;
+}
+
+textarea{
+    resize: none;
+    align-items: center;
+    margin-left: 30%;
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+    font-size: 18px;
+    background-color: gainsboro;
+} 
+
+button {
+    background-color: purple;
+    color: white;
+    width: 500px;
+    height: 40px;
+    margin-left: 30%;
+    border-radius: 10px;
+    border-color: purple;
+    
+
+}
+button:hover {
+    background-color: blueviolet;
+}
